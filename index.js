@@ -2,7 +2,7 @@ const data = {
  icon: '\u2139',
 
  blueBg: "\x1b[44m",
- blueFg: "\x1b[34m",
+ blueFg: "\x1b[36m",
  whiteFg: "\x1b[37m",
 
  reset: "\x1b[0m",
