@@ -1,6 +1,6 @@
 # console.info :
 
- ![console-info demo](https://raw.githubusercontent.com/abdennour/spl/master/js/console-info-node.png)
+ ![console-info demo](https://raw.githubusercontent.com/rathath/bucket/master/img/console-info-node.png)
 
 - The purpose of this module is not to give many options for logging , it is just give you lightweight the missing API of console : which is here `console.info`.
 
